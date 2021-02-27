@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="center"><a href="https://azsantoss.github.io/Projeto-web//" target="_blank"><img width="740" height="440" src="images/logo.png" alt="AndersonSantos" /></a></p>
+<p align="center"><a href="https://azsantoss.github.io/Projeto-web/" target="_blank"><img width="740" height="440" src="images/logo.png" alt="AndersonSantos" /></a></p>
 
 
 <br>
