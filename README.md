@@ -1,12 +1,12 @@
-# <p align="center">Portfólio Profissional</p>
-> Neste portfólio está uma breve apresentação dos meus projetos pessoais e projetos realizados para instituições e empresas.
+﻿# <p align="center">Projeto Academia Stefanini</p>
+> Projeto criado na avaliação final da academia stefanini.
 
-<p align="center">Acesse: <a href="https://azsantoss.github.io/portfolio/" target="_blank">azsantoss.github.io/portfolio<a></p>
+<p align="center">Acesse: <a href="https://azsantoss.github.io/projeto-web/" target="_blank">azsantoss.github.io/portfolio<a></p>
 
 
 <br>
 
-<p align="center"><a href="https://azsantoss.github.io/portfolio/" target="_blank"><img width="740" height="440" src="images/logo.png" alt="AndersonSantos" /></a></p>
+<p align="center"><a href="https://azsantoss.github.io/projeto-web/" target="_blank"><img width="740" height="440" src="images/logo.png" alt="AndersonSantos" /></a></p>
 
 
 <br>
